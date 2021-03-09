@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetFive.A.Abstractions\NetFive.A.Abstractions.csproj" />
+    <ProjectReference Include="..\NetFive.B.Abstractions\NetFive.B.Abstractions.csproj" />
+    <ProjectReference Include="..\NetFive.C.Abstractions\NetFive.C.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
